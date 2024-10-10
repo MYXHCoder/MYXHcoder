@@ -66,8 +66,6 @@ When all the stars in the night sky go out, all dreams and streams will flow int
 
 **Email 邮箱**: denglei_myxh@qq.com
 
-**Twitter 推特**: https://twitter.com/MYXH1735350920
-
 **Bilibili 哔哩哔哩**: https://b23.tv/F3Nv0DP
 
 **CSDN**: https://blog.csdn.net/qq_40734758
