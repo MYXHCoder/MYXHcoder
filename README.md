@@ -17,39 +17,29 @@ Here are some ideas to get you started:
 
 ## Introduce 介绍
 
-I am a senior majoring in computer science and technology, and I am also a programming enthusiast.
+I am a university student majoring in Computer Science and Technology, and I'm also an avid programmer.
 
-Currently, I am learning Java Spring and will often share my learning experience.
+Currently, I'm learning Cocos and frequently share my learning experiences.
 
-I am interested in Unity and hope to become an independent game developer in the future.
+I have a strong interest in game development and hope to become an independent game producer in the future.
 
-When all the stars in the night sky go out, all dreams and streams will flow into the same ocean, and we will eventually meet.
+When all the stars in the night sky fade away, all dreams and all streams will merge into the same ocean. At that time, we will finally meet.
 
-我是一名主修计算机科学与技术的大四学生，同时也是一个编程爱好者。
+我是一名主修计算机科学与技术的大学生，同时也是一个编程爱好者。
 
-目前，我正在学习 Java Spring，并且经常分享我的学习经验。
+目前，我正在学习 Cocos，并且经常分享我的学习经验。
 
-我对 Unity 很感兴趣，希望将来成为一名独立的游戏开发者。
+我对游戏开发很感兴趣，希望将来成为一名独立游戏制作人。
 
 在夜空所有星星熄灭的时候，所有梦想、所有溪流，都能汇入同一片大海中，那时我们终会相见。
 
-## Interests 兴趣
-
-<p align="left">
-    <img src="https://img-blog.csdnimg.cn/a5b9d3773be94b2bb95026d34c393e98.png" alt="GitHub" height="64px">
-    <img src="https://img-blog.csdnimg.cn/a69dcbb642284f02bcc86e3a9f0ea166.png" alt="Java" height="64px">
-    <img src="https://img-blog.csdnimg.cn/c3a27f96c4094f9f970827aa286767e0.png" alt="Java" height="64px">
-    <img src="https://img-blog.csdnimg.cn/48cdf5a66099488591a84e98a34a368b.png" alt="Java" height="64px">
-    <img src="https://img-blog.csdnimg.cn/a2310fd002a74826bbddd1cf043445c6.png" alt="Java" height="64px">
-</p>
-
 ## Skills 技能
 
-🤖 **Language 语言**: Java, C, C++, Python, Golang, SQL, HTML, CSS, JavaScript
+🤖 **Language 语言**: C, Python, Java, SQL, HTML, CSS, JavaScript, TypeScript
 
-🔨 **Tools 工具**: VS Code, IDEA, Shell, Git, Chat GPT
+🔨 **Tools 工具**: VS Code, IDEA, Cocos Dashboard, Shell, Git, ChatGPT
 
-💻 **Fields 领域**: Java Backend Development
+💻 **Fields 领域**: Java Backend Development, Cocos Game Development
 
 ## Statistics 统计　
 
@@ -69,3 +59,7 @@ When all the stars in the night sky go out, all dreams and streams will flow int
 **Bilibili 哔哩哔哩**: https://b23.tv/F3Nv0DP
 
 **CSDN**: https://blog.csdn.net/qq_40734758
+
+**Cocos 论坛 Cocos Forum**: https://forum.cocos.org/u/myxh
+
+**WeChat Official Account 微信公众号**: 末影小黑xh
