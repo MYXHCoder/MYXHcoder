@@ -1,5 +1,5 @@
 <!--
-**MYXHcode/MYXHcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MYXHcoder/MYXHcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -44,8 +44,8 @@ When all the stars in the night sky fade away, all dreams and all streams will m
 ## Statistics 统计　
 
 <p align="left">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=MYXHcode&count_private=true&theme=dark&show_icons=true&line_height=24" alt="GitHub stats" align = "center"/>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYXHcode&theme=dark&layout=donut" alt="Top Langs" align = "center"/>
+    <img height="190px" src="https://github-stats-extended.vercel.app/api?username=MYXHcoder&count_private=true&theme=dark&show_icons=true&line_height=24" alt="GitHub stats" align = "center"/>
+    <img height="190px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MYXHcoder&theme=dark&layout=donut" alt="Top Langs" align = "center"/>
 </p>
 
 ## Contact Information 联系方式
